@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/debojyotikundu05/myLeetcode/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [3330-find-the-original-typed-string-i](https://github.com/debojyotikundu05/myLeetcode/tree/master/3330-find-the-original-typed-string-i) |
 <!---LeetCode Topics End-->
