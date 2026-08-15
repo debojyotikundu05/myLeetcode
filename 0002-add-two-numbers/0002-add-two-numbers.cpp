@@ -30,8 +30,8 @@ public:
             l1 = l1 ? l1->next : NULL;
             l2 = l2 ? l2->next : NULL;
         }
-        ListNode* result = head->next;
-        delete head;
-        return result;
+        // ListNode* result = head->next;
+        // delete head;
+        return head->next;
     }
 };
