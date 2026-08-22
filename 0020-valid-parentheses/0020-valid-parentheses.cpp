@@ -14,7 +14,7 @@ public:
                            (st.top() == '[' && s[i] == ']')) {
                     st.pop();
                 } else {
-                    return false;
+                    return false; // the stack is not empty but also the closing bracket dosen't match with the last opening bracket
                 }
             }
         }
