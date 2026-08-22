@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/debojyotikundu05/myLeetcode/tree/master/0020-valid-parentheses) |
 | [2810-faulty-keyboard](https://github.com/debojyotikundu05/myLeetcode/tree/master/2810-faulty-keyboard) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/debojyotikundu05/myLeetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3330-find-the-original-typed-string-i](https://github.com/debojyotikundu05/myLeetcode/tree/master/3330-find-the-original-typed-string-i) |
@@ -66,9 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/debojyotikundu05/myLeetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/debojyotikundu05/myLeetcode/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/debojyotikundu05/myLeetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/debojyotikundu05/myLeetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
