@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/debojyotikundu05/myLeetcode/tree/master/0002-add-two-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/debojyotikundu05/myLeetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/debojyotikundu05/myLeetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
 | ------- |
