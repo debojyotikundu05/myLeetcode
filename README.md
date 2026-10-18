@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/debojyotikundu05/myLeetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/debojyotikundu05/myLeetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/debojyotikundu05/myLeetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/debojyotikundu05/myLeetcode/tree/master/0496-next-greater-element-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/debojyotikundu05/myLeetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -70,13 +71,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/debojyotikundu05/myLeetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/debojyotikundu05/myLeetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/debojyotikundu05/myLeetcode/tree/master/0496-next-greater-element-i) |
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/debojyotikundu05/myLeetcode/tree/master/0496-next-greater-element-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/debojyotikundu05/myLeetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/debojyotikundu05/myLeetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/debojyotikundu05/myLeetcode/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/debojyotikundu05/myLeetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
